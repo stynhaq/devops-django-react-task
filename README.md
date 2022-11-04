@@ -23,4 +23,4 @@ npm start
 ```json
 npm run build
 ```
-
+<img width="1440" alt="Task 2" src="https://github.com/stynhaq/node-app/raw/master/devops-task2.png">
